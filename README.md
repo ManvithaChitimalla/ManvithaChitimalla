@@ -1,5 +1,5 @@
-# 💫 About Me:
-I’m currently working on building real-world projects and strengthening my problem-solving skills<br><br>👯 I’m looking to collaborate on innovative projects and open-source contributions<br><br>🤝 I’m looking for help with learning new technologies and gaining industry experience<br><br>🌱 I’m currently learning new technologies, software development practices, and problem-solving techniques
+#  About Me:
+I’m currently working on building real-world projects and strengthening my problem-solving skills<br><br> I’m looking to collaborate on innovative projects and open-source contributions<br><br> I’m looking for help with learning new technologies and gaining industry experience<br><br> I’m currently learning new technologies, software development practices, and problem-solving techniques
 
 
 # 💻 Tech Stack:
